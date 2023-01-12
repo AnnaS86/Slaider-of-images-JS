@@ -1,0 +1,1 @@
+# Slaider-of-images-JS
